@@ -1,0 +1,4 @@
+{
+    "preset": "laravel",
+    "exclude": ["legacy", ".npm-cache", ".composer-cache"]
+}
